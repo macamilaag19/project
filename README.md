@@ -1,3 +1,4 @@
 ## Final project
 - This makefile was runned on 
-- The *guessinggame.sh* contains  lines
+date
+- The *guessinggame.sh* contains '(wc -l guessinggame.sh)' lines
