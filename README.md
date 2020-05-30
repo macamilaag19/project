@@ -1,4 +1,4 @@
 ## Final project
 - This makefile was runned on 
-vie may 29 19:18:13 -05 2020
-- The *guessinggame.sh* contains  lines
+vie may 29 19:21:47 -05 2020
+- The *guessinggame.sh* contains 37 lines
